@@ -7,7 +7,13 @@
   </a>
 </p>
 
+
 <h1 align="center">WordCraft</h1>
+
+<p align="center">
+  <a href="https://getartcraft.com/"><img alt="ArtCraft" src="docs/brand/artcraft-mark.svg" width="28"></a><br>
+  <sub>Made by the <a href="https://getartcraft.com/">ArtCraft</a> team and community.</sub>
+</p>
 
 <p align="center">
   <b>Writing and document design; an open-source, clean-room reimplementation of Microsoft Word, rebuilt in pure Rust.</b>
@@ -361,8 +367,3 @@ part of this repository and WordCraft, under [`docs/brand/LICENSE-brand.txt`](do
 Forks and modified versions must remove them.
 
 <sub>Microsoft and Microsoft Word are trademarks of the Microsoft group of companies. Adobe, Photoshop, Illustrator, Premiere Pro, Lightroom, Acrobat, After Effects and InDesign are trademarks or registered trademarks of Adobe Inc. in the United States and/or other countries. WordCraft is an independent, open-source project and is not affiliated with, sponsored by or endorsed by Microsoft Corporation or Adobe Inc.; these names are used only to describe the workflows it is compatible with.</sub>
-
-<p align="center">
-  <a href="https://getartcraft.com/"><img alt="ArtCraft" src="docs/brand/artcraft-mark.svg" width="28"></a><br>
-  <sub>Made by the <a href="https://getartcraft.com/">ArtCraft</a> team and community.</sub>
-</p>
